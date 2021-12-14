@@ -11,7 +11,7 @@ import io.cucumber.testng.CucumberOptions;
         plugin = {"io.qameta.allure.cucumber6jvm.AllureCucumber6Jvm"}
 
 )
-public class CukesRunner extends AbstractTestNGCucumberTests {
+public class Test_Runner extends AbstractTestNGCucumberTests {
 
 
 
