@@ -20,5 +20,3 @@ public class CukesRunner extends AbstractTestNGCucumberTests {
 }
 
 
-//@smoke
-//@Sanity
